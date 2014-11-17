@@ -1,0 +1,5 @@
+package treefun
+
+class Puzzle {
+	
+}
