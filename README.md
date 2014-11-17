@@ -1,0 +1,1 @@
+Functional A-Star implementation and 15-puzzle solver.
