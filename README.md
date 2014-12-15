@@ -1,1 +1,1 @@
-Functional A-Star implementation and 15-puzzle solver.
+Certified Red-Black implementation and visualization 
